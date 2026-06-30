@@ -1,8 +1,8 @@
-Row Type,Action,Level,Campaign,Campaign ID,Negative keyword,Type,Customer ID
+Type,Action,Campaign Type,Campaign,Campaign ID,Keyword,Match Type,Customer ID
 Negative keyword,Add,Campaign,IP 7194 USA,,wayfair.com,Exact match,
-Negative keyword,Add,Campaign,IP 7194 USA,,wayfair promo code,Exact match,
+Negative keyword,Remove,Campaign,IP 7194 USA,,wayfair promo code,Exact match,
 Negative keyword,Add,Campaign,IP 7194 USA,,amazon coupins,Exact match,
-Negative keyword,Add,Campaign,IP 7194 USA,,amazon deals,Exact match,
+Negative keyword,Remove,Campaign,IP 7194 USA,,amazon deals,Exact match,
 Negative keyword,Add,Campaign,IP 7194 USA,,ceramic planters,Exact match,
 Negative keyword,Add,Campaign,IP 7194 USA,,accent pillows,Exact match,
 Negative keyword,Add,Campaign,IP 7194 USA,,wayfair.ca,Exact match,
